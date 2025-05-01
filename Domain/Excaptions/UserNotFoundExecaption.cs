@@ -4,12 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Domain.Interfaces
+namespace Domain.Excaptions
 {
-	public interface IDbInitializer
+	public class UserNotFoundExecaption(string email):NotFound_Excaptions($"user with Email:{email} not found")
 	{
-		public void Initialize();
-
-		public Task InitiaLizeIdetityAsync();
 	}
 }

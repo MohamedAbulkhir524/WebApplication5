@@ -4,12 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Domain.Interfaces
+namespace Domain.Excaptions
 {
-	public interface IDbInitializer
+	public sealed class UnothizedExcaption(string Message="Invalid password or email"):Exception(Message)
 	{
-		public void Initialize();
-
-		public Task InitiaLizeIdetityAsync();
 	}
 }

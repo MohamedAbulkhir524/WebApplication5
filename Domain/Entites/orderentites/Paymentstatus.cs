@@ -4,12 +4,12 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Domain.Interfaces
+namespace Domain.Entites.orderentites
 {
-	public interface IDbInitializer
+	public enum Paymentstatus
 	{
-		public void Initialize();
-
-		public Task InitiaLizeIdetityAsync();
+		pending,
+		paymentReceived,
+		paymentFailed
 	}
 }
