@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "Rn01ZcrnSReA4mrGyNgayXCrKyrqBoiPibMprBlMO61zgtAEB1gWrh5WmYUGw/hd3mi/Y4tWxFSe/9LgY0WZhg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\elwady\\Desktop\\Aliaa tarek\\ASP.Net\\Session2\\WebApplication5\\Services\\Services.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\elwady\\.nuget\\packages\\automapper\\14.0.0\\automapper.14.0.0.nupkg.sha512",
+    "C:\\Users\\elwady\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\8.0.0\\microsoft.extensions.configuration.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\elwady\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\elwady\\.nuget\\packages\\microsoft.extensions.options\\8.0.0\\microsoft.extensions.options.8.0.0.nupkg.sha512",
+    "C:\\Users\\elwady\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
