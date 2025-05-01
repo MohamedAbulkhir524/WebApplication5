@@ -1,0 +1,16 @@
+C:\Users\elwady\Desktop\Aliaa tarek\ASP.Net\Session2\WebApplication5\Abstraction.Services\bin\Debug\net8.0\Services.Abstraction.deps.json
+C:\Users\elwady\Desktop\Aliaa tarek\ASP.Net\Session2\WebApplication5\Abstraction.Services\bin\Debug\net8.0\Services.Abstraction.dll
+C:\Users\elwady\Desktop\Aliaa tarek\ASP.Net\Session2\WebApplication5\Abstraction.Services\bin\Debug\net8.0\Services.Abstraction.pdb
+C:\Users\elwady\Desktop\Aliaa tarek\ASP.Net\Session2\WebApplication5\Abstraction.Services\bin\Debug\net8.0\Shared.dll
+C:\Users\elwady\Desktop\Aliaa tarek\ASP.Net\Session2\WebApplication5\Abstraction.Services\bin\Debug\net8.0\Shared.pdb
+C:\Users\elwady\Desktop\Aliaa tarek\ASP.Net\Session2\WebApplication5\Abstraction.Services\obj\Debug\net8.0\Services.Abstraction.csproj.AssemblyReference.cache
+C:\Users\elwady\Desktop\Aliaa tarek\ASP.Net\Session2\WebApplication5\Abstraction.Services\obj\Debug\net8.0\Services.Abstraction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elwady\Desktop\Aliaa tarek\ASP.Net\Session2\WebApplication5\Abstraction.Services\obj\Debug\net8.0\Services.Abstraction.AssemblyInfoInputs.cache
+C:\Users\elwady\Desktop\Aliaa tarek\ASP.Net\Session2\WebApplication5\Abstraction.Services\obj\Debug\net8.0\Services.Abstraction.AssemblyInfo.cs
+C:\Users\elwady\Desktop\Aliaa tarek\ASP.Net\Session2\WebApplication5\Abstraction.Services\obj\Debug\net8.0\Services.Abstraction.csproj.CoreCompileInputs.cache
+C:\Users\elwady\Desktop\Aliaa tarek\ASP.Net\Session2\WebApplication5\Abstraction.Services\obj\Debug\net8.0\Services.4D1A1826.Up2Date
+C:\Users\elwady\Desktop\Aliaa tarek\ASP.Net\Session2\WebApplication5\Abstraction.Services\obj\Debug\net8.0\Services.Abstraction.dll
+C:\Users\elwady\Desktop\Aliaa tarek\ASP.Net\Session2\WebApplication5\Abstraction.Services\obj\Debug\net8.0\refint\Services.Abstraction.dll
+C:\Users\elwady\Desktop\Aliaa tarek\ASP.Net\Session2\WebApplication5\Abstraction.Services\obj\Debug\net8.0\Services.Abstraction.pdb
+C:\Users\elwady\Desktop\Aliaa tarek\ASP.Net\Session2\WebApplication5\Abstraction.Services\obj\Debug\net8.0\ref\Services.Abstraction.dll
+C:\Users\elwady\Desktop\Aliaa tarek\ASP.Net\Session2\WebApplication5\Abstraction.Services\obj\Debug\net8.0\Services.Abstraction.sourcelink.json
