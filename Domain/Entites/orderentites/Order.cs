@@ -8,7 +8,24 @@ namespace Domain.Entites.orderentites
 {
 	public class Order:BaseEntity<Guid>
 	{
-        public string BuyerEmail { get; set; }
+        public Order()
+        {
+            
+        }
+
+		public Order(string buyerEmail, Address shippingAddress, ICollection<OrderItem> orderItems,  DeliveryMethod deliveryMethod, int? deliveryMethodId, DateTimeOffset orderDate, decimal subtotal)
+		{
+			BuyerEmail = buyerEmail;
+			ShippingAddress = shippingAddress;
+			OrderItems = orderItems;
+
+			DeliveryMethod = deliveryMethod;
+			DeliveryMethodId = deliveryMethodId;
+			OrderDate = orderDate;
+			Subtotal = subtotal;
+		}
+
+		public string BuyerEmail { get; set; }
 
         public Address ShippingAddress { get; set; }
 
