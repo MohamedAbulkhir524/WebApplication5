@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "IFeugvd0P5+I7E/xhVXah5FX3meUBXEgW0yQ5sQqPHl6nSDzx6UnDm+GasrFF7LXFP0qwmx/plhmRQ2A0DMPdg==",
+  "dgSpecHash": "JQaYjvHlEZrsZ5d8zS6wXTWngZcYsZMzgZtlh1Lo9ZQjub2DxhU2hqLO5QZC3vWol0dlY6D41f4iUTd8KpsNHw==",
   "success": true,
   "projectFilePath": "C:\\Users\\elwady\\Desktop\\Aliaa tarek\\ASP.Net\\Session2\\WebApplication5\\Services\\Services.csproj",
   "expectedPackageFiles": [
@@ -30,7 +30,12 @@
     "C:\\Users\\elwady\\.nuget\\packages\\microsoft.identitymodel.protocols\\7.0.3\\microsoft.identitymodel.protocols.7.0.3.nupkg.sha512",
     "C:\\Users\\elwady\\.nuget\\packages\\microsoft.identitymodel.protocols.openidconnect\\7.0.3\\microsoft.identitymodel.protocols.openidconnect.7.0.3.nupkg.sha512",
     "C:\\Users\\elwady\\.nuget\\packages\\microsoft.identitymodel.tokens\\7.0.3\\microsoft.identitymodel.tokens.7.0.3.nupkg.sha512",
-    "C:\\Users\\elwady\\.nuget\\packages\\system.identitymodel.tokens.jwt\\7.0.3\\system.identitymodel.tokens.jwt.7.0.3.nupkg.sha512"
+    "C:\\Users\\elwady\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\elwady\\.nuget\\packages\\stripe.net\\48.1.0\\stripe.net.48.1.0.nupkg.sha512",
+    "C:\\Users\\elwady\\.nuget\\packages\\system.configuration.configurationmanager\\8.0.0\\system.configuration.configurationmanager.8.0.0.nupkg.sha512",
+    "C:\\Users\\elwady\\.nuget\\packages\\system.diagnostics.eventlog\\8.0.0\\system.diagnostics.eventlog.8.0.0.nupkg.sha512",
+    "C:\\Users\\elwady\\.nuget\\packages\\system.identitymodel.tokens.jwt\\7.0.3\\system.identitymodel.tokens.jwt.7.0.3.nupkg.sha512",
+    "C:\\Users\\elwady\\.nuget\\packages\\system.security.cryptography.protecteddata\\8.0.0\\system.security.cryptography.protecteddata.8.0.0.nupkg.sha512"
   ],
   "logs": []
 }
